@@ -1,0 +1,4 @@
+sanic==23.6.0
+sanic-ext==23.6.0
+aiohttp==3.8.5
+logdna==1.18.12
